@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world-2023"
+  site-url: "https://jeremybmerrill.github.io/nbdev-hello-world-2023"
+  description: "hellow orld"
+  repo-branch: main
+  repo-url: "https://github.com/jeremybmerrill/nbdev-hello-world-2023"
